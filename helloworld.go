@@ -1,8 +1,9 @@
-// test project main.go
-package hw 
+package hw //import from github.com/dustin0708
 
 import (
 	"fmt"
+
+	"github.com/micro/go-micro"
 )
 
 func Print() {
